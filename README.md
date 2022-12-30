@@ -16,4 +16,5 @@ The News App project allows users to view the list of news in real time. Search 
 - [NextJS](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vercel](https://vercel.com/dashboard)
+- [GraphQL](https://graphql.org/)
 - [API: mediastack](https://mediastack.com/)
